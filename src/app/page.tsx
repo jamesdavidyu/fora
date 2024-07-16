@@ -46,7 +46,9 @@ export default function Home() {
                   <Center>ANNIVERSARY!</Center>
                 </h1>
                 <h3>1 2,</h3>
-                <h3>I love you so much.</h3>
+                <h3>I love you so much. I thank God that He gave me you. You are the reason I reflect on my life now and think this is what/where/who I was meant to live for.</h3>
+                <h3>To forever anniversaries, love,</h3>
+                <h3>남편</h3>
               </div>
             </Box>
           </GridCol>
